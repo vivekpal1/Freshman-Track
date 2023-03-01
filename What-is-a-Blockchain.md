@@ -2,7 +2,7 @@
 
 ![](https://i.imgur.com/Pn1B0t8.png)
 
-A blockchain is a shared, distributed, and permanent database shared among multiple nodes on a computer network. They record data in a way that makes it probabilistically impossible to modify or hack the system.
+A blockchain is a decentralized and distributed ledger that is shared among multiple nodes on a computer network. It records data in a way that makes it extremely difficult and computationally expensive to modify or hack the system, due to the use of cryptographic algorithms and consensus mechanisms.
 
 Specifically, as its namesake, blockchains record data as a chain of blocks. Each block contains a group of transactions, which could be transferring assets around the network, or updating the information stored on the blockchain.
 
